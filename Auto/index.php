@@ -1,4 +1,4 @@
-<?php $items = array("Volvo", "BMW", "Toyota", "Chrysler", "Ford");?>
+<?php $items = array("Volvo", "BMW", "Toyota", "Chrysler", "Ford", "Buick");?>
 <style>
 	<?php include 'css/styles.css'; ?>
 </style>
